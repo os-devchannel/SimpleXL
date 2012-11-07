@@ -1,5 +1,14 @@
 06/11/2012:
 
-Getting zlib
-Search for a XML lib
-Doing the best!
+Getting zlib		-- Completed ( 07/11/2012 - zlib.net )
+Search for a XML lib	-- Completed ( 07/11/2012 - TinyXML2 from http://www.grinninglizard.com/tinyxml2/index.html )
+Doing the best!		-- Progress
+
+07/01/2012
+
+Memory Manager Class	-- Not Completed
+Zlib C++ Wrap		-- Not Completed
+XLSX File Write		-- Not Completed
+XLSX File Read		-- Not Completed
+UTF Support		-- Completed ( UTF-8 support from http://utfcpp.sourceforge.net/ )
+Search for a XML lib	-- Completed ( TinyXML2 from http://www.grinninglizard.com/tinyxml2/index.html )
