@@ -1,1 +1,2 @@
-== C++ library for handle XLSX files.
+C++ library for handle XLSX files.
+========
